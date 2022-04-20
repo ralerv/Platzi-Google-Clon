@@ -50,3 +50,19 @@ header nav .nav-ul a{
     height: 32px;
     width: 32px;
 }
+
+main{
+    margin-top: 160px;
+    text-align: center;
+}
+
+.main-logo {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+.main-logo img {
+    height: 92px;
+    width: 272px;
+}
