@@ -43,3 +43,8 @@ header nav .nav-ul a{
     width: 32px;
     height: 32px;
 }
+
+.nav-ul #profile {
+    border-radius: 50%;
+    margin-left: 12px;
+}
