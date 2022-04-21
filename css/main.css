@@ -136,9 +136,13 @@ footer {
 .footer-right{
     display: flex;
     flex-direction: row;
+    list-style: none;
+    margin: 0px 8px;
+    padding: 0;
+
 }
 
-.footer-left,
-.footer-right{
-    list-style: none;
+.footer-left li,
+.footer-right li{
+    margin: 0px 8px;
 }
