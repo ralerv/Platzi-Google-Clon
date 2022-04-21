@@ -79,13 +79,15 @@ main .main-input {
     align-items: center;
 }
 
-.voice-icon img
+.voice-icon img,
 .search-icon {
     width: 20px;
     height: 20px;
 }
 
 main .main-input input{
-    width: 525px;
+    width: 450px;
+    height: 40px;
     outline: none;
+    border: none;
 }
