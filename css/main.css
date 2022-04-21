@@ -96,3 +96,27 @@ main .main-input input{
     outline: none;
     border: none;
 }
+
+main .main-buttons{
+    width: 530px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+main .main-buttons button{
+    background-color: #f0f0f0;
+    color:hwb(0 35% 65%);
+    border-radius: 4px;
+    height: 36px;
+    border: 0;
+    font-size: 16px;
+    padding: 0 15px;
+    margin-right: 16px;
+}
+
+main .main-buttons button:hover{
+    color:#000000;
+    border: 1px solid #a9a9a9;
+    box-shadow: 0 1px 1px rgba(0,0,0,1);
+    cursor: pointer;
+}
