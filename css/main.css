@@ -66,3 +66,25 @@ main{
     height: 92px;
     width: 272px;
 }
+
+main .main-input {
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    border-radius: 100px;
+    border: 1px solid #d1e1e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search-icon {
+    width: 20px;
+    height: 20px;
+}
+
+main .main-input input{
+    width: 525px;
+    outline: none;
+}
