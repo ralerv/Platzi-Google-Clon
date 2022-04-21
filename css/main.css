@@ -79,6 +79,11 @@ main .main-input {
     align-items: center;
 }
 
+main .main-input:hover {
+    box-shadow: 0 1px 6px 0 hwb(0 69% 31%);
+    border-color: #d1e1e500;
+}
+
 .voice-icon img,
 .search-icon {
     width: 20px;
