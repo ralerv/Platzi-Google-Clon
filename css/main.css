@@ -75,7 +75,7 @@ main .main-input {
     border: 1px solid #d1e1e5;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
 
